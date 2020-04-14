@@ -1,1 +1,1 @@
-java -cp ;lwjgl/* HelloWorld.java
+java -cp ;lwjgl/* Main.java
